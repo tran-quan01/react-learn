@@ -7,6 +7,7 @@
     <list default="true" id="6f07f553-c3c2-490c-ab0b-212a79bdcb88" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/my-app/src/Header/Header.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/my-app/src/UserCard/UserCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-app" beforeDir="false" afterPath="$PROJECT_DIR$/my-app" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-app/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
